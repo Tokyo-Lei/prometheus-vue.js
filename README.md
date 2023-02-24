@@ -12,3 +12,6 @@
 <p><b>没有PHP基础就请放弃！没有PHP基础就请放弃！没有PHP基础就请放弃！</b></p>
 <img src="https://img.shields.io/badge/No%20PHP%20foundation,%20please%20do%20not%20use%EF%BC%81-E4405F?style=for-the-badge&logo=&logoColor=white"》
 </div>
+
+ <br><br>
+  
