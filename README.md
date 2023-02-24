@@ -13,5 +13,11 @@
 <img src="https://img.shields.io/badge/No%20PHP%20foundation,%20please%20do%20not%20use%EF%BC%81-E4405F?style=for-the-badge&logo=&logoColor=white"》
 </div>
 
- <br><br>
+<br><br>
+ <img src="https://img.shields.io/badge/php-8.1-blue">
+ <img src="https://img.shields.io/badge/nginx-1.23.x-red">
+ <img src="https://img.shields.io/badge/Composer-2.5.X-orange">
+  <img src="https://img.shields.io/badge/Mysql-5.6%20%2B-yellow">
   
+ <br><br>
+---
